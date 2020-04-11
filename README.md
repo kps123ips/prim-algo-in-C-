@@ -1,1 +1,1 @@
-# prim-algo-in-C-
+# prim-algo-in-C++
